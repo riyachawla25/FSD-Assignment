@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "studentName": "Riya Chawla",
+    "email": "chawlariya101@gmail.com",
+    "category": "Technical",
+    "description": "wifi is working now",
+    "priority": "High"
+  }
+]
